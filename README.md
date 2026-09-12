@@ -31,13 +31,13 @@
 
 ---
 
-<!-- TARJETAS DE ESTADÍSTICAS EN TEMA DARK -->
+<!-- TARJETAS DE ESTADÍSTICAS (SERVIDOR ESTABLE) -->
 <div align="center">
   <h3>📊 Métricas de Desarrollo</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jose-dev-tools&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-dev-tools&layout=compact&theme=dark&hide_border=true" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-dev-tools&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-dev-tools&layout=compact&theme=dark&hide_border=true" height="150" />
   </p>
 </div>
 
