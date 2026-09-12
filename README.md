@@ -31,7 +31,7 @@
 
 ### 🌐 Conéctate Conmigo
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord--\_jose\_\_dev\_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose-dev-tools)
 
 </div>
