@@ -30,24 +30,6 @@
 <br />
 
 ---
-
-<!-- SECCIÓN DOOM JUGABLE -->
-<div align="center">
-  <h3>🕹️ Can it run DOOM? Yes.</h3>
-  <p><i>Haz clic en la pantalla para jugar directamente en el navegador</i></p>
-
-  <a href="https://jose-dev-tools.github.io/doom/">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAzYjF6ZmlmZmsxOWJxb2J3Nnc4YnN1ZHFudWFtdmxzeHRvdGJzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDK1pCI43dqRW/giphy.gif" width="450" alt="Jugar DOOM en GitHub" style="border-radius: 10px;" />
-  </a>
-
-  <br />
-
-  <a href="https://jose-dev-tools.github.io/doom/">
-    <img src="https://img.shields.io/badge/▶_JUGAR_DOOM_NOW-RED?style=for-the-badge&logo=dosbox&logoColor=white" />
-  </a>
-</div>
-
----
 <!-- ANIMACIÓN DE LA SERPIENTE -->
 <div align="center">
   <h3>🐍 Actividad de Commits</h3>
