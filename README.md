@@ -33,15 +33,8 @@
 
 <!-- METRICAS DE DESARROLLO (ALTERNATIVAS ESTABLES) -->
 <div align="center">
-  <h3>📊 Métricas de Desarrollo</h3>
-
-  <p align="center">
-    <img src="https://github-readme-stats.azurewebsites.net/api?username=jose-dev-tools&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-    <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=jose-dev-tools&layout=compact&theme=dark&hide_border=true" height="150" />
-  </p>
-
-  <!-- GRÁFICO DE ACTIVIDAD SVG -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-dev-tools&theme=react-dark&hide_border=true" width="100%" />
+  <h3>📊 Actividad de Commits</h3>
+  <img src="https://raw.githubusercontent.com/jose-dev-tools/jose-dev-tools/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br />
