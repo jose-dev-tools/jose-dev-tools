@@ -1,37 +1,60 @@
+<!-- HEADER BANNER DINÁMICO -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A81D33,100:5865F2&height=180&section=header&text=Jose%20Hernandez&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
-# 👋 ¡Hola! Soy Jose Hernandez
+<!-- SALUDO Y REDES -->
+<div align="center">
+  <h2>💻 Linux & Web Developer</h2>
+  
+  [![Discord](https://img.shields.io/badge/Discord--\_jose\_\_dev\_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+  [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+  ![Visistas](https://komarev.com/ghpvc/?username=jose-dev-tools&color=blueviolet&style=for-the-badge&label=Vistas)
+</div>
 
-### 🛠️ Lenguajes y Herramientas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-dev-tools&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-dev-tools&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
-</p>
+<br />
 
 ---
 
+<!-- BADGES DE TECNOLOGÍAS CON DISEÑO UNIFICADO -->
+<div align="center">
+  <h3>🛠️ Stack Tecnológico</h3>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+<br />
+
+---
+
+<!-- TARJETAS DE ESTADÍSTICAS EN TEMA DARK -->
+<div align="center">
+  <h3>📊 Métricas de Desarrollo</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jose-dev-tools&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-dev-tools&layout=compact&theme=dark&hide_border=true" height="150" />
+  </p>
+</div>
+
+<br />
+
+---
+
+<!-- SECCIÓN DE PROYECTOS EN FORMATO TABLA ESTILIZADA -->
 ### 🚀 Proyectos Destacados
 
-- **[passgen-simple](https://github.com/jose-dev-tools/passgen-simple):** Gestor offline de contraseñas y API Tokens con almacenamiento cifrado local.
-- **[OnePlus-Nord-N10-Kali-NetHunter](https://github.com/jose-dev-tools/OnePlus-Nord-N10-Kali-NetHunter):** Guía y componentes para Kali NetHunter en OnePlus Nord N10 5G.
+| Proyecto | Descripción | Lenguaje |
+| :--- | :--- | :---: |
+| 🔑 **[passgen-simple](https://github.com/jose-dev-tools/passgen-simple)** | Gestor offline de contraseñas y API Tokens con almacenamiento cifrado. | `Python` |
+| 📱 **[OnePlus-Nord-N10-Kali-NetHunter](https://github.com/jose-dev-tools/OnePlus-Nord-N10-Kali-NetHunter)** | Kali NetHunter + TWRP + Root para OnePlus Nord N10 5G. | `Shell` |
 
----
+<br />
 
-### 🌐 Conéctate Conmigo
-
-[![Discord](https://img.shields.io/badge/Discord--\_jose\_\_dev\_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose-dev-tools)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:A81D33&height=100&section=footer" width="100%" />
 </div>
