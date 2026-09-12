@@ -31,10 +31,15 @@
 
 ---
 
-<!-- METRICAS DE DESARROLLO (ALTERNATIVAS ESTABLES) -->
+<!-- ANIMACIÓN DE LA SERPIENTE -->
 <div align="center">
-  <h3>📊 Actividad de Commits</h3>
-  <img src="https://raw.githubusercontent.com/jose-dev-tools/jose-dev-tools/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <h3>🐍 Actividad de Commits</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose-dev-tools/jose-dev-tools/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose-dev-tools/jose-dev-tools/output/github-contribution-grid-snake.svg">
+    <img alt="github snake log" src="https://raw.githubusercontent.com/jose-dev-tools/jose-dev-tools/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
