@@ -31,14 +31,17 @@
 
 ---
 
-<!-- TARJETAS DE ESTADÍSTICAS (SERVIDOR ESTABLE) -->
+<!-- METRICAS DE DESARROLLO (ALTERNATIVAS ESTABLES) -->
 <div align="center">
   <h3>📊 Métricas de Desarrollo</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-dev-tools&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-dev-tools&layout=compact&theme=dark&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.azurewebsites.net/api?username=jose-dev-tools&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=jose-dev-tools&layout=compact&theme=dark&hide_border=true" height="150" />
   </p>
+
+  <!-- GRÁFICO DE ACTIVIDAD SVG -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-dev-tools&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 <br />
