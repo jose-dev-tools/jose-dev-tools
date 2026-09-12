@@ -9,9 +9,7 @@
   
   [![Discord](https://img.shields.io/badge/Discord--\_jose\_\_dev\_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
   [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-  ![Visistas](https://komarev.com/ghpvc/?username=jose-dev-tools&color=blueviolet&style=for-the-badge&label=Vistas)
-</div>
-
+  ![Visitas](https://komarev.com/ghpvc/?username=jose-dev-tools&color=5865F2&style=for-the-badge&label=Visitas)</div>
 <br />
 
 ---
